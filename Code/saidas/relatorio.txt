@@ -1,0 +1,41 @@
+Quantidade de contas ativas: 4 (2 CP e 2 CC)
+Saldo do banco: R$ 103029483.99 (+ R$ 3029483.99)
+Dívida dos clientes: R$ 0.00 (0 PF e 0 PJ)
+Total disponibilizado em limite de credito: R$ 3802.00
+Erros: 7
+--------------------------------------------------
+MÊS 1
+Transações: 9 efetuadas e 3 com erro
+Total de contas ativas: 2 (3 novas e 1 encerradas)
+Rendimento pago a CP: R$ 0.00
+Rendimento recebido: R$ 999990.10
+Juros e taxas recebidas: R$ 490.00
+Dívida dos clientes: R$ 0.00
+Saldo dos clientes: R$ 0.00
+Cliente mais rico: Pessoa1 Sobrenome1
+Cliente com maior dívida: N/A
+Saldo do banco: R$ 100999000.10
+--------------------------------------------------
+MÊS 2
+Transações: 11 efetuadas e 3 com erro
+Total de contas ativas: 3 (1 novas e 0 encerradas)
+Rendimento pago a CP: R$ 0.01
+Rendimento recebido: R$ 1009991.00
+Juros e taxas recebidas: R$ 99.00
+Dívida dos clientes: R$ 0.00
+Saldo dos clientes: R$ 5001.01
+Cliente mais rico: Pessoa1 Sobrenome1
+Cliente com maior dívida: N/A
+Saldo do banco: R$ 102009090.09
+--------------------------------------------------
+MÊS 3
+Transações: 32 efetuadas e 1 com erro
+Total de contas ativas: 4 (1 novas e 0 encerradas)
+Rendimento pago a CP: R$ 220.01
+Rendimento recebido: R$ 1020313.91
+Juros e taxas recebidas: R$ 300.00
+Dívida dos clientes: R$ 0.00
+Saldo dos clientes: R$ 33231.02
+Cliente mais rico: Pessoa3 Sobrenome3
+Cliente com maior dívida: N/A
+Saldo do banco: R$ 103029483.99
