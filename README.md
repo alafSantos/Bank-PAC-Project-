@@ -1,2 +1,2 @@
 # PAC-Project
-Final design of applied programming discipline of computers.
+an application made in C++, a bank that explores Object-oriented programming (OOP).
