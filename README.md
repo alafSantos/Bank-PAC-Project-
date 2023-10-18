@@ -10,7 +10,7 @@ This project aims to explore some object-oriented programming (OOP) techniques t
  * **Year:** 2017
 
 ## Documentation
-Since this repository is a result of a Brazilian undergraduate course project focused in object-oriented programming (OOP) techniques developed in 2017, all the produced documentation are in Portuguese. This document can be found in the docs folder.
+Since this repository is a result of a Brazilian undergraduate course project focused on object-oriented programming (OOP) techniques developed in 2017, all the produced documentation is in Portuguese. This document can be found in the docs folder.
 
 ## Compilation and Usage
 Firstly, create a build folder inside the project directory. The following command may help you:
