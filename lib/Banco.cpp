@@ -481,7 +481,7 @@ void Banco::gerarRelatorio()
   for(int g = 0; g < this->qtdErrosTotal.size(); g++) erros += this->qtdErrosTotal[g];
 
   std::ofstream relatorio_file;
-  relatorio_file.open("saidas/relatorio.txt");
+  relatorio_file.open("outputFiles/report.txt");
 
   relatorio_file << "Quantidade de contas ativas: " << this->qtdCCs + this->qtdCPs << " (" << this->qtdCPs << " CP e " << this->qtdCCs << " CC)\n";
   if(this->saldoInicial <= this->saldoDoBanco) relatorio_file << "Saldo do banco: R$ " << std::fixed << std::setprecision(2) << this->saldoDoBanco << " (+ R$ " << this->saldoDoBanco - this->saldoInicial << ")\n";

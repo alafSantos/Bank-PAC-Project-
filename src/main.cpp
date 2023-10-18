@@ -1,5 +1,6 @@
 #include "Banco.h"
 #include "Entrada.h"
+
 int main(int argc, char *argv[])
 {
   std::vector < std::string > argumentos(argv, argv + argc);
