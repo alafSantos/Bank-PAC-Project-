@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.13)
 
-project(Simple_Banking_System
+project(Simple-Banking-System
     VERSION 1.0
     DESCRIPTION "This project is part of an object-oriented programming module of the Bachelor of Science in Electrical Engineering from the Federal University of Espírito Santo."
     LANGUAGES CXX)
